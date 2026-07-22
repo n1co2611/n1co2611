@@ -34,8 +34,8 @@ Lo que me hace un poco diferente: también tengo experiencia real en sistemas ma
 
 | Proyecto | Descripción | Stack | Estado |
 |---|---|---|---|
-| [Noma](https://noma.ovh) | Plataforma para descubrir productos artesanales con mapa interactivo y asistente conversacional | Dialogflow · SEO |
-| [EpicBox](https://github.com/n1co2611/EpicBox) | Marketplace de assets digitales — modelos 3D/2D, scripts y efectos | React · Node.js · MongoDB |
+| [Noma](https://noma.ovh) | Plataforma para descubrir productos artesanales con mapa interactivo y asistente conversacional | Dialogflow · SEO | Hecho |
+| [EpicBox](https://github.com/n1co2611/EpicBox) | Marketplace de assets digitales — modelos 3D/2D, scripts y efectos | React · Node.js · MongoDB | Hecho |
 | CarGest | App móvil de gestión de vehículos (TFG) | Ionic · Angular · Firebase |  En desarrollo |
 
 ---
