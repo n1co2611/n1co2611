@@ -1,4 +1,4 @@
-# Hola, soy Nicolás 👋
+# Hola, soy Nicolás 
 
 Desarrollador full-stack con base en Alicante. Estudio Ingeniería Multimedia en la Universidad de Alicante y me especializo en aplicaciones web y móviles con Angular, Ionic y Firebase.
 
@@ -34,9 +34,9 @@ Lo que me hace un poco diferente: también tengo experiencia real en sistemas ma
 
 | Proyecto | Descripción | Stack | Estado |
 |---|---|---|---|
-| [Noma](https://noma.ovh) | Plataforma para descubrir productos artesanales con mapa interactivo y asistente conversacional | Dialogflow · SEO | ✅ Live |
-| [EpicBox](https://github.com/n1co2611/EpicBox) | Marketplace de assets digitales — modelos 3D/2D, scripts y efectos | React · Node.js · MongoDB | ✅ Live |
-| CarGest | App móvil de gestión de vehículos (TFG) | Ionic · Angular · Firebase | 🚧 En desarrollo |
+| [Noma](https://noma.ovh) | Plataforma para descubrir productos artesanales con mapa interactivo y asistente conversacional | Dialogflow · SEO |
+| [EpicBox](https://github.com/n1co2611/EpicBox) | Marketplace de assets digitales — modelos 3D/2D, scripts y efectos | React · Node.js · MongoDB |
+| CarGest | App móvil de gestión de vehículos (TFG) | Ionic · Angular · Firebase |  En desarrollo |
 
 ---
 
