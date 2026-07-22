@@ -1,12 +1,12 @@
 # Hola, soy Nicolás
 
-Desarrollador full-stack con base en Alicante. Termino Ingeniería Multimedia en la Universidad de Alicante — tengo todas las asignaturas superadas y solo me queda defender el TFG. Me especializo en aplicaciones web y móviles con Angular, Ionic y Firebase.
+Desarrollador full-stack con base en Alicante. He acabado Ingeniería Multimedia en la Universidad de Alicante, tengo todas las asignaturas superadas y solo me queda defender el TFG. Me especializo en aplicaciones web y móviles con Angular, Ionic y Firebase.
 
-Lo que me hace un poco diferente: también tengo experiencia real en sistemas mainframe — COBOL, JCL y DB2 — gracias a mis prácticas en NTT Data. No es algo que veas mucho en perfiles de mi generación.
+Lo que me hace un poco diferente: también tengo experiencia real en sistemas mainframe COBOL, JCL y DB2 gracias a mis prácticas en NTT Data. No es algo que veas mucho en perfiles de mi generación.
 
 ---
 
-## 🛠 Stack principal
+##  Stack principal
 
 **Frontend & Móvil**
 
@@ -39,7 +39,7 @@ Lo que me hace un poco diferente: también tengo experiencia real en sistemas ma
 
 ---
 
-## 🚀 Proyectos destacados
+##  Proyectos destacados
 
 | Proyecto | Descripción | Stack | Estado |
 |---|---|---|---|
@@ -49,7 +49,7 @@ Lo que me hace un poco diferente: también tengo experiencia real en sistemas ma
 
 ---
 
-## 📫 Contacto
+##  Contacto
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nicolashidalgo.es-6366f1?style=flat-square&logo=googlechrome&logoColor=white)](https://nicolashidalgo.es)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolashidalgosalinas)
