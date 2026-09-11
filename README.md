@@ -1,6 +1,6 @@
 # Hola, soy Nicolás
 
-Desarrollador full-stack junior con base en Alicante. Ingeniería Multimedia por la Universidad de Alicante, con todas las asignaturas superadas y a falta de defender el TFG. Construyo aplicaciones web y móviles con Angular, React, Node.js y Firebase, siempre con TypeScript.
+Desarrollador full-stack junior con base en Alicante. Ingeniería Multimedia por la Universidad de Alicante, con todas las asignaturas superadas y a falta de defender el TFG.
 
 ---
 
