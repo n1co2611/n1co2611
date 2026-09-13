@@ -44,8 +44,8 @@ Desarrollador full-stack junior con base en Alicante. Ingeniería Multimedia por
 
 | Proyecto | Descripción | Stack | Estado |
 |---|---|---|---|
-| [CarGest](https://github.com/n1co2611/TFG) | PWA de gestión de vehículos personales (TFG): documentación con avisos de caducidad, mantenimientos, gastos con estadísticas, estimación de kilometraje y talleres cercanos en mapa | TypeScript · Angular · Ionic · Firebase | Fase final |
-| [Noma](https://github.com/n1co2611/noma) | Plataforma para descubrir productos artesanales con mapa 3D interactivo y asistente conversacional. Responsable del chatbot y de la estrategia SEO | TypeScript · Angular · Node.js · Three.js | Publicado |
+| [CarGest](privado hasta la defensa) | PWA de gestión de vehículos personales (TFG): documentación con avisos de caducidad, mantenimientos, gastos con estadísticas, estimación de kilometraje y talleres cercanos en mapa | TypeScript · Angular · Ionic · Firebase | Fase final |
+| [Noma](https://github.com/n1co2611/noma) | Plataforma para descubrir productos artesanales con mapa 3D interactivo y asistente conversacional. Responsable del chatbot y de la estrategia SEO | TypeScript · JavaScript · Angular · Node.js · WebGL | Publicado |
 | [EpicBox](https://github.com/n1co2611/EpicBox) | Marketplace de assets digitales: modelos 3D/2D, scripts y efectos | JavaScript · React · Node.js · MongoDB | Publicado |
 
 ---
