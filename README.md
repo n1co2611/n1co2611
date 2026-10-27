@@ -1,6 +1,6 @@
 # Hola, soy Nicolás
 
-Desarrollador full-stack junior en Alicante. Ingeniería Multimedia por la Universidad de Alicante, con todas las asignaturas superadas y a falta de defender el TFG.
+Desarrollador full stack en Alicante. Ingeniería Multimedia por la Universidad de Alicante, con todas las asignaturas superadas y a falta de defender el TFG.
 
 ---
 
@@ -44,7 +44,7 @@ Desarrollador full-stack junior en Alicante. Ingeniería Multimedia por la Unive
 
 | Proyecto | Descripción | Stack | Estado |
 |---|---|---|---|
-| [Nido](https://github.com/n1co2611/nido-showcase) · [demo](https://nidoapp.web.app/?demo) | PWA para organizar una casa entre varias personas: lista de la compra en tiempo real con cantidades, precios, fotos e historial; tareas con turnos; menú semanal y preguntas recurrentes. Acceso con Google, email y Face ID (passkeys) y avisos push | TypeScript · React · Firebase · Cloud Functions · PWA | Publicado |
+| [Nido](https://github.com/n1co2611/nido-showcase) · [app](https://nidoapp.web.app) | PWA para organizar una casa entre varias personas: lista de la compra en tiempo real con cantidades, precios, fotos e historial; tareas con turnos; menú semanal y preguntas recurrentes. Acceso con Google, email y Face ID (passkeys) y avisos push | TypeScript · React · Firebase · Cloud Functions · PWA | Publicado |
 | CarGest *(privado hasta la defensa)* | PWA de gestión de vehículos personales (TFG): documentación con avisos de caducidad, mantenimientos, gastos con estadísticas, estimación de kilometraje y talleres cercanos en mapa | TypeScript · Angular · Ionic · Firebase | Fase final |
 | [Noma](https://github.com/n1co2611/noma) | Plataforma para descubrir productos artesanales con mapa 3D interactivo y asistente conversacional. Responsable del chatbot y de la estrategia SEO | TypeScript · JavaScript · Angular · Node.js · WebGL | Publicado |
 | [EpicBox](https://github.com/n1co2611/EpicBox) | Marketplace de assets digitales: modelos 3D/2D, scripts y efectos | JavaScript · React · Node.js · MongoDB | Publicado |
@@ -54,7 +54,7 @@ Desarrollador full-stack junior en Alicante. Ingeniería Multimedia por la Unive
 ## 💼 Experiencia
 
 **NTT DATA** · Prácticas (abr – jul 2026) · Alicante
-Desarrollo y mantenimiento de programas COBOL, procesos batch con JCL y acceso a datos con DB2 en entorno mainframe.
+Desarrollo de software en un proyecto del sector bancario, dentro de un equipo de sistemas: programas, procesos batch y acceso a datos (COBOL, JCL, DB2).
 
 ---
 
